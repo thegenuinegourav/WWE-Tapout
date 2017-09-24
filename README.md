@@ -5,7 +5,7 @@
 </h1>
 <h4 align="center">Two Players Agility Fighting WWE Game.</h4>
 <br>
-<a align="center" href="https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a>
+<h6 align="center"><a href="https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a></h6>
 <p align="center">
   <a href="https://github.com/thegenuinegourav/WWE-Tapout#fork-destination-box">
     __Contribute__
@@ -55,10 +55,10 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
   
 ## ScreenShots  
-|     :---:      |     :---:      |
-| ![Screenshot1](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/one.png) | ![Screenshot2](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/two.png) |
-| ![Screenshot3](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/three.png) | ![Screenshot4](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/four.png) |
-| ![Screenshot5](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/five.png) |  |
+|     :---:                             |     :---:                            |
+| ![Screenshot1](screenshots/one.png)   | ![Screenshot2](screenshots/two.png)  |
+| ![Screenshot3](screenshots/three.png) | ![Screenshot4](screenshots/four.png) |
+| ![Screenshot5](screenshots/five.png)  |                                      |
  
 ## License
 
