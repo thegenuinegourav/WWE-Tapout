@@ -57,14 +57,15 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
   
 ## ScreenShots  
-:------------------------------------:|:------------------------------------:
+:------------------------------------------:|:------------------------------------------:
+<img src="screenshots/one.png" width="400"> | <img src="screenshots/two.png" width="400">
 ![Screenshot1](screenshots/one.png)   | ![Screenshot2](screenshots/two.png)  
 ![Screenshot3](screenshots/three.png) | ![Screenshot4](screenshots/four.png) 
 ![Screenshot5](screenshots/five.png)  |                                      
  
 ## License
 
-WWE
+[WWE](http://www.wwe.com/)
 
 ---
 
