@@ -31,15 +31,18 @@ To win, one should break opponent superstar's card as quickly as possible.
 Breaking card will involve certain taps & hold according to strength of a superstar.
 
 ```
-<br>
+  
+  
 ## Download
 You can [download](https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg) latest installable version of WWE Tapout for Android.
-<br>
+  
+  
 ## Gameplay  
 <img src="screenshots/one.png" width="400"> <img src="screenshots/two.png" width="400">
 <img src="screenshots/three.png" width="400"> <img src="screenshots/four.png" width="400">
 <img src="screenshots/five.png" width="400">
-<br>
+  
+  
 ## Development  
 Want to contribute? **:pencil:**  
   
@@ -52,15 +55,18 @@ To fix a bug or enhance an existing module, follow these steps:
 5. Commit your changes (`git commit -am 'exciting-stuff!!'`)
 6. Push to the branch (`git push origin exciting-stuff`)
 7. Create a Pull Request
-<br>
+  
+  
 ## Interested?  
 If you find a bug (the website couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/thegenuinegourav/WWE-Tapout/issues/new) by including your search query and the expected result.  
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/WWE-Tapout/issues/new) including some sample queries and their corresponding results.
-<br>
+  
+  
 ## License
 [WWE](http://www.wwe.com/)
-
+  
+  
 ---
 
 > [thegenuinegourav.io](https://thegenuinegourav.github.io/) &nbsp;&middot;&nbsp;
