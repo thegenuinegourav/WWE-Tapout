@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:orientation="vertical"
+    tools:context="thegenuinegourav.wwetapout.SelectPlayersActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/selection_status"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:text="Select 1P"
+            android:textAllCaps="true"
+            android:layout_margin="5dp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="190dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+            <ImageView
+                android:id="@+id/select_1"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bray" />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:onClick="Select_one_p"
+                    android:id="@+id/select_1p_button"
+                    android:textColor="@android:color/background_dark"
+                    android:text="Tap to Confirm"/>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:background="@android:color/transparent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="VS"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="190dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+                <ImageView
+                    android:id="@+id/select_2"
+                    android:layout_height="150dp"
+                    android:layout_width="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/becky" />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:onClick="Select_two_p"
+                    android:id="@+id/select_2p_button"
+                    android:textColor="@android:color/background_dark"
+                    android:text="Tap to Confirm"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="17dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="7dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Overall Points: 3"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:onClick="FAQ3"
+                    android:background="@android:color/white"
+                    android:src="@drawable/ic_help_black_24dp"/>
+            </RelativeLayout>
+
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/bray"
+                        android:onClick="Bray" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/becky"
+                        android:onClick="Becky" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/dean"
+                        android:onClick="Dean" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/big_show"
+                        android:onClick="BigShow" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/bayley"
+                        android:onClick="Bayley" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="17dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="7dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Overall Points: 4"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:onClick="FAQ4"
+                    android:background="@android:color/white"
+                    android:src="@drawable/ic_help_black_24dp"/>
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/john"
+                        android:onClick="John" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/samoa"
+                        android:onClick="Samoa" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/alexa"
+                        android:onClick="Alexa" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/shinsuke"
+                        android:onClick="Shinsuke" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/finn"
+                        android:onClick="Finn" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="17dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="7dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Overall Points: 5"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:onClick="FAQ5"
+                    android:background="@android:color/white"
+                    android:src="@drawable/ic_help_black_24dp"/>
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/sasha"
+                        android:onClick="Sasha" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/aj"
+                        android:onClick="Aj" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/kevin"
+                        android:onClick="Kevin" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/roman"
+                        android:onClick="Roman" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/undertaker"
+                        android:onClick="Undertaker" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="17dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="7dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Overall Points: 7"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:onClick="FAQ7"
+                    android:background="@android:color/white"
+                    android:src="@drawable/ic_help_black_24dp"/>
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="25dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/seth"
+                        android:onClick="Seth" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/brock"
+                        android:onClick="Brock" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/charlotte"
+                        android:onClick="Charlotte" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/asuka"
+                        android:onClick="Asuka" />
+
+                    <ImageButton
+                        android:layout_width="120dp"
+                        android:layout_height="95dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/braun"
+                        android:onClick="Braun" />
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
