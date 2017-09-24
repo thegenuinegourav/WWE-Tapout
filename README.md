@@ -22,7 +22,9 @@
 ## About WWE Tapout!
 
 ```bash
-WWE Tapout is a fighting game built on Android, designed for 2 players to test their agility, quickness & swiftness using their favourite WWE superstars.
+WWE Tapout is a fighting game built on Android. 
+
+It is designed for 2 players to test their agility, quickness & swiftness using their favourite WWE superstars.
 
 To win, one should break opponent superstar's card as quickly as possible.
 
@@ -55,10 +57,10 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
   
 ## ScreenShots  
-|     :---:                             |     :---:                            |
-| ![Screenshot1](screenshots/one.png)   | ![Screenshot2](screenshots/two.png)  |
-| ![Screenshot3](screenshots/three.png) | ![Screenshot4](screenshots/four.png) |
-| ![Screenshot5](screenshots/five.png)  |                                      |
+:------------------------------------:|:------------------------------------:
+![Screenshot1](screenshots/one.png)   | ![Screenshot2](screenshots/two.png)  
+![Screenshot3](screenshots/three.png) | ![Screenshot4](screenshots/four.png) 
+![Screenshot5](screenshots/five.png)  |                                      
  
 ## License
 
