@@ -1,4 +1,5 @@
-
+![screenshot](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/cover.jpg)
+<br>
 <h1 align="center">
   <br>
   <a href="download link"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a>
@@ -21,8 +22,6 @@
   </a>
 </p>
 <br>
-
-![screenshot](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/cover.jpg)
 
 ## Key Features
 
@@ -95,23 +94,15 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 ## ScreenShots  
   
   
-![Screenshot1](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/one.png)  
-  
-  
-![Screenshot2](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/two.png)  
-  
-  
-![Screenshot3](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/three.png)  
-  
-  
-![Screenshot4](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/four.png)  
-  
-  
+![Screenshot1](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/one.png)
+![Screenshot2](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/two.png)
+![Screenshot3](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/three.png)
+![Screenshot4](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/four.png)
 ![Screenshot5](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/five.png)  
     
 
 
-#### License
+## License
 
 WWE
 
