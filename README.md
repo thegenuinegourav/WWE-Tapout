@@ -1,15 +1,14 @@
 ![screenshot](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/cover.jpg)
-<br>
 <h1 align="center">
   <br>
-  <a href="download link"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a>
-  <br>
-  WWE Tapout
+    WWE Tapout
   <br>
 </h1>
-
 <h4 align="center">2P game  on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
-
+<br>
+<h1 align="center">
+  <a href="download link"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a>
+</h1>
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     Download
@@ -94,10 +93,8 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 ## ScreenShots  
   
   
-![Screenshot1](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/one.png)
-![Screenshot2](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/two.png)
-![Screenshot3](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/three.png)
-![Screenshot4](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/four.png)
+![Screenshot1](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/one.png) ![Screenshot2](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/two.png)
+![Screenshot3](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/three.png) ![Screenshot4](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/four.png)
 ![Screenshot5](https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/five.png)  
     
 
