@@ -8,13 +8,13 @@
 <h6 align="center"><a href="https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a></h6>
 <p align="center">
   <a href="https://github.com/thegenuinegourav/WWE-Tapout#fork-destination-box">
-    __Contribute__
+    . Contribute .
   </a>
   <a href="https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg">
-    __Download__
+    . Download .
   </a>
   <a href="https://github.com/thegenuinegourav/WWE-Tapout">
-    __Demo__
+    . Demo .
   </a>
 </p>
 <br>
@@ -56,12 +56,10 @@ If you find a bug (the website couldn't handle the query and / or gave irrelevan
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/WWE-Tapout/issues/new) including some sample queries and their corresponding results.  
   
   
-## ScreenShots  
-:------------------------------------------:|:------------------------------------------:
-<img src="screenshots/one.png" width="400"> | <img src="screenshots/two.png" width="400">
-![Screenshot1](screenshots/one.png)   | ![Screenshot2](screenshots/two.png)  
-![Screenshot3](screenshots/three.png) | ![Screenshot4](screenshots/four.png) 
-![Screenshot5](screenshots/five.png)  |                                      
+## Gameplay  
+<img src="screenshots/one.png" width="400"> <img src="screenshots/two.png" width="400">
+<img src="screenshots/three.png" width="400"> <img src="screenshots/four.png" width="400">
+<img src="screenshots/five.png" width="400">                                       
  
 ## License
 
