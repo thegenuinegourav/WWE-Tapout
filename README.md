@@ -3,8 +3,8 @@
     WWE Tapout
   <br>
 </h1>
-<h4 align="center">Two Players Agility Fighting WWE Game.</h4>
-<br>
+<h3 align="center">Two Players Agility Fighting WWE Game.</h3>
+<h4 align="center"> <i>Dedicated to all WWE Fans!</i></h4>
 <h6 align="center"><a href="https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg"><img src="https://github.com/thegenuinegourav/WWE-Tapout/blob/master/screenshots/logo.png" width="200"></a></h6>
 <p align="center">
   <a href="https://github.com/thegenuinegourav/WWE-Tapout#fork-destination-box">
@@ -35,6 +35,11 @@ Breaking card will involve certain taps & hold according to strength of a supers
 ## Download
 You can [download](https://docs.google.com/uc?export=download&id=0B1Zc1LkGIpxySFg0bHZISkNJYzg) latest installable version of WWE Tapout for Android.
   
+## Gameplay  
+<img src="screenshots/one.png" width="400"> <img src="screenshots/two.png" width="400">
+<img src="screenshots/three.png" width="400"> <img src="screenshots/four.png" width="400">
+<img src="screenshots/five.png" width="400">  
+  
   
 ## Development  
 Want to contribute? **:pencil:**  
@@ -54,12 +59,7 @@ To fix a bug or enhance an existing module, follow these steps:
 If you find a bug (the website couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/thegenuinegourav/WWE-Tapout/issues/new) by including your search query and the expected result.  
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/WWE-Tapout/issues/new) including some sample queries and their corresponding results.  
-  
-  
-## Gameplay  
-<img src="screenshots/one.png" width="400"> <img src="screenshots/two.png" width="400">
-<img src="screenshots/three.png" width="400"> <img src="screenshots/four.png" width="400">
-<img src="screenshots/five.png" width="400">                                       
+                                       
  
 ## License
 
